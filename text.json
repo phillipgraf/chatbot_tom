@@ -1,0 +1,137 @@
+{
+  "unrecognized": [
+    "Tom nicht verstehen. Bitte du wiederholen können?",
+    "Das ist leider nicht mein Fachgebiet, aber vielleicht hilft dir <a href='https://google.com' target='_blank'> Onkel Google</a> weiter",
+    "Da kann ich dir leider nicht weiterhelfen.<br>Ich kann dir, aber wenn du willst mehr über unser Bad erzählen.",
+    "Ich bin noch neu hier, aber vielleicht kann dir einer anderer Mitarbeiter weiterhelfen. Hier kannst du uns kontaktieren:<br>Telefon: <a href='tel:0991/342058'>0991/2896-0</a><br>eMail: <a href = 'mailto:info@tycoon-sportsclub.de'>info(at)elypso.de</a>"
+  ],
+  "used": [
+    "Diese Frage habe ich dir bereits beantwortet. Schau die unseren Chatverlauf nochmal genau an.",
+    "Das habe ich dir doch bereits gesagt. Möchtest du noch etwas anderes Wissen?",
+    "Ich bin doch kein Papagei! Du kannst mich aber gerne was anderes Fragen."
+  ],
+  "answers": [
+    {
+      "intent": [
+        "hallo",
+        "hey",
+        "guten tag",
+        "moin",
+        "servus"
+      ],
+      "answer": "Na du Wasserratte, wie kann ich dir behilflich sein?",
+      "used": "0"
+    },
+    {
+      "intent": [
+        "wie viel",
+        "preise",
+        "kosten",
+        "teuer",
+        "eintritt",
+        "eintrittskosten",
+        "eintrittspreise",
+        "eintritt",
+        "kostet"
+      ],
+      "answer": "Die Badewelten sind zur Zeit geschlossen, weshalb ich dir da keine Preise nennen kann. Aber du kannst noch unsere Sauna nutzen für 16€ in 4h. <br> Oder komm doch unser Freibad besuchen für 3€ den Tag. Für Studenten nur 1€",
+      "used": "0"
+    },
+    {
+      "intent":[
+        "gutschein",
+        "geschenk",
+        "rabatt"
+      ],
+      "answer": "Du möchtest ein Gutschein? Das ist kein Problem. Komm einfach persönlich zu uns vorbei und wir erstellen dir dein Wunschgutschein.",
+      "used": "0"
+    },
+    {
+      "intent": [
+        "öffnungszeiten",
+        "öffnung",
+        "geöffnet",
+        "offen",
+        "auf",
+        "wann"
+      ],
+      "answer": " Die Badewelten sind aktuelle GESCHLOSSEN. <br> Aber unsere Sauna und das Freibad ist täglich von 10-22Uhr geöffnet.",
+      "used": "0"
+    },
+    {
+      "intent": [
+        "standort",
+        "wo",
+        "besuchen",
+        "finden",
+        "adresse",
+        "anfahrt"
+      ],
+      "answer": " Du findest uns im Sandnerhofweg 4-6 in 94469 Deggendorf.<b><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2626.963806923942!2d12.909590999999997!3d48.82075200000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47751219d4c7d0a7%3A0xbf0b893dee7d6048!2selypso+Freizeit-+und+Erlebnisbad+Deggendorf!5e0!3m2!1sde!2sde!4v1432800924380' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>",
+      "used": "0"
+    },
+    {
+      "intent": [
+        "corona",
+        "covid",
+        "maske"
+      ],
+      "answer": "Aufgrund von Corona ist leider unsere indoor Badwelt geschlosen. Du kannst aber trotzdem weiterhin unser Freibad, sowie unserer Sauna besuchen",
+      "used": "0"
+    },
+    {
+      "intent": [
+      "schwimmkurs",
+      "schwimmkurse",
+      "auqakurs",
+      "kurs",
+      "kurse"
+      ],
+      "answer": "Wir bieten verschiedene Schwimm- und Gymanstikkurse für jung und alt an. Mehr dazu findest <a href ='https://www.elypso.de/hauptmenue/aquakurse/' target='_blank'> hier </a> ",
+      "used": "0"
+    },
+    {
+      "intent": [
+      "vielen dank",
+      "danke",
+      "dankeschön"
+      ],
+      "answer": "Kein Problem! Gerne doch!",
+      "used": "0"
+    },
+    {
+      "intent": [
+      "ja"
+      ],
+      "answer": "Was genau meinst du? Erklär bitte im Detail.",
+      "used": "0"
+    },
+    {
+      "intent": [
+      "okay"
+      ],
+      "answer": "Freut mich, dass ich dir helfen konnte. Möchtest du sonst noch was wissen?",
+      "used": "0"
+    },
+    {
+      "intent": [
+        "kontakt",
+        "telefon",
+        "handynummer",
+        "email",
+        "e-mail"
+      ],
+      "answer": "Du kannst uns auch persönlich kontaktieren:<br>Telefon: <a href='tel:0991/342058'>0991/2896-0</a><br>eMail: <a href = 'mailto:info@tycoon-sportsclub.de'>info(at)elypso.de</a>",
+      "used": "0"
+    },
+    {
+      "intent": [
+        "hilfe",
+        "schade",
+        "help"
+      ],
+      "answer": "Du kannst mich gerne bzgl. dieser Themen fragen:<br>Kontakt, Öffnungszeiten, Preise, Gutschein, Standort, Schwimmkurs oder Corona",
+      "used": "0"
+    }
+  ]
+}
