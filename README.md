@@ -1,5 +1,5 @@
 # chatbot_tom
-Tom is a chatbot, which provides you with information about the swimming pool Elypso in Deggendorf.
+Tom is a chatbot, which provides you with information about the water park Elypso in Deggendorf.
 Attention: Tom speaks only german.
 
 This was a Java project for the course "Internet technologies" for my studies in 2021.
